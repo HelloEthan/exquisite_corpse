@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <Maura Rigney> -- <evil hag> -- 
+    <Maura Rigney> -- <Dana Cholakova> -- <Ethan Alexander> 
 
 # THANKS
 
-    <name>
+    <HTML5 Boilerplate People>
 
 # TECHNOLOGY COLOPHON
 
